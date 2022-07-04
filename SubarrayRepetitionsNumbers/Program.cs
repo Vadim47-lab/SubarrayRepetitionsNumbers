@@ -8,33 +8,43 @@ namespace SubarrayRepetitionsNumbers
         {
             Console.WriteLine(" Добро пожаловать в программу: подмассив повторений чисел!");
 
-            int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 7, 7, 7};
-            Array.Sort(array);
+            Random random = new Random();
+            int initialNumber = 0;
+            int finitNumber = 30;
+            int[] numbers = new int[finitNumber];
             int maxRepetitions = 0;
             int maxCountRepetitions = 0;
             int сountRepetitions = 0;
-            int currCountRepetitions = array[0];
+            int currCountRepetitions = numbers[0];
 
-            foreach (int line in array)
+            for (int i = 0; i < numbers.Length; i++)
             {
-                if (line == currCountRepetitions)
+                numbers[i] = random.Next(initialNumber, finitNumber);
+            }
+
+            foreach (int number in numbers)
+            {
+                if (number == currCountRepetitions)
+                {
                     сountRepetitions++;
+                }
                 else
                 {
                     сountRepetitions = 1;
-                    currCountRepetitions = line;
+                    currCountRepetitions = number;
                 }
+
                 if (сountRepetitions > maxRepetitions)
                 {
                     maxRepetitions = сountRepetitions;
-                    maxCountRepetitions = line;
+                    maxCountRepetitions = number;
                 }
             }
 
-            Console.WriteLine("\n Массив, состоящий из 30 чисел array = ");
-            for (int line = 0; line < array.Length; line++)
+            Console.WriteLine("\n Массив, состоящий из " + numbers.Length + " чисел array = ");
+            for (int i = 0; i < numbers.Length; i++)
             {
-                Console.Write(" " + array[line] + " ");
+                Console.Write(" " + numbers[i] + " ");
             }
 
             Console.WriteLine("\n\n Число, которое само больше раз повторяется подряд maxCountRepetitions = " + maxCountRepetitions + ".\n И количество повторений сountRepetitions = " 
