@@ -41,7 +41,7 @@ namespace SubarrayRepetitionsNumbers
                 }
             }
 
-            Console.WriteLine("\n Массив, состоящий из " + numbers.Length + " чисел array = ");
+            Console.WriteLine("\n Массив, состоящий из " + numbers.Length + " чисел numbers = ");
             for (int i = 0; i < numbers.Length; i++)
             {
                 Console.Write(" " + numbers[i] + " ");
