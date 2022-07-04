@@ -1,0 +1,14 @@
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\bin\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.exe
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\bin\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.deps.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\bin\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.runtimeconfig.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\bin\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.runtimeconfig.dev.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\bin\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\bin\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\obj\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.csproj.AssemblyReference.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\obj\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\obj\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.AssemblyInfoInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\obj\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.AssemblyInfo.cs
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\obj\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.csproj.CoreCompileInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\obj\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\obj\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\SubarrayRepetitionsNumbers\SubarrayRepetitionsNumbers\obj\Debug\netcoreapp3.1\SubarrayRepetitionsNumbers.genruntimeconfig.cache
